@@ -16,8 +16,8 @@ public class SwaggerConfig {
         contact.setName("Michał");
 
         Info info = new Info()
-                .title("Rest API do NBP application")
-                .version("1.0")
+                .title("Rest API do kolosa")
+                .version("5.0? B)")
                 .contact(contact)
                 .description("Kolosowe API do zarządzania zapytaniami do API NBP");
 
